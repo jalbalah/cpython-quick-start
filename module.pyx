@@ -1,7 +1,6 @@
 
 
 def hello():
-    c = -999999999999999999999999
-    for i in range(0, int(10e9)):
-        c += i
-    print(c)
+    c = int(1e9)
+    while c > 0:
+        c -= 1
