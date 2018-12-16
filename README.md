@@ -1,10 +1,9 @@
 # cpython-quick-start
 Basic script to compile Python code into optimized c++ code
-
-module.pyx  --  includes all the Python code to compile into C++ code
-build.sh    --  script that builds module.pyx so you can call `from module import <function/etc.>`
-setup.py    --  build file
-test.py     --  runs profiling
+<br/>module.pyx  --  includes all the Python code to compile into C++ code
+<br/>build.sh    --  script that builds module.pyx so you can call `from module import <function/etc.>`
+<br/>setup.py    --  build file
+<br/>test.py     --  runs profiling
 
 
 <br/><br/>
