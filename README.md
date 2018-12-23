@@ -1,4 +1,13 @@
 # cpython-quick-start
+```
+./build.sh
+```
+```
+python test.py
+```
+
+# Overview
+
 Basic script to compile Python code into optimized c++ code
 <br/>module.pyx  --  includes all the Python code to compile into C++ code
 <br/>build.sh    --  script that builds from module.pyx so you can call `from module import <function/etc.>`
