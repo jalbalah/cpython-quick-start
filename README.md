@@ -22,6 +22,13 @@ To determine which VS version:
 ```
 python
 ```
+e.g. 
+```
+python
+Python 3.5.6 |Anaconda, Inc.| (default, Aug 26 2018, 16:05:27) [MSC v.1900 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+```
 Check the version listed, then download the according VS version:
 ```
 MSC v.1000 -> Visual C++ 4.x        
