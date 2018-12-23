@@ -51,3 +51,16 @@ MSC v.1915 -> Visual C++ 2017 (15.8)
 MSC v.1916 -> Visual C++ 2017 (15.9)  
 ```
 <br/> See: https://stackoverflow.com/questions/2817869/error-unable-to-find-vcvarsall-bat
+
+# Profiling Results
+
+hello() vs. hello2():
+```
+cpp took 21.69346833229065 seconds
+python took 43.88453245162964 seconds
+```
+panda() vs. panda2():
+```
+cpp took 33.092228174209595 seconds
+python took 35.487977027893066 seconds
+```
